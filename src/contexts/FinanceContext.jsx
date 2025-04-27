@@ -8,7 +8,7 @@ const DEFAULT_CATEGORIES = [
   { id: 'groceries', name: 'Groceries', color: '#0088FE' },
   { id: 'housing', name: 'Housing', color: '#00C49F' },
   { id: 'transportation', name: 'Transportation', color: '#FFBB28' },
-  { id: 'utilities', name: '', color: '#FF8042' },
+  { id: 'utilities', name: 'Utilities', color: '#FF8042' },
   { id: 'entertainment', name: 'Entertainment', color: '#8884D8' },
 ];
 
